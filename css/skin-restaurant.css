@@ -1912,6 +1912,9 @@ body,
 .maps-background .media-column{
 	background-image: url(../images/maps.png);
 }
+.bonheur-background .media-column{
+	background-image: url(../images/bonheur.jpg);
+}
 
 /* Call to Action */
 .call-to-action-2-1{
